@@ -1,5 +1,4 @@
 ![Pub Version (including pre-releases)](https://img.shields.io/pub/v/helpers_plethora_flutter?include_prereleases)
-![Dart GitHub Actions](https://github.com/Marco87Developer/helpers_plethora_flutter/actions/workflows/dart.yml/badge.svg)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/Marco87Developer/helpers_plethora_flutter)
 
 An helpful variety of extensions and enumerations dependent on Flutter.
