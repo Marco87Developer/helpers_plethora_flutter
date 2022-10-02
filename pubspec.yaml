@@ -1,0 +1,22 @@
+name: helpers_plethora_flutter
+description: An helpful variety of extensions and enumerations dependent on Flutter.
+version: 1.0.0
+repository: https://github.com/Marco87Developer/helpers_plethora_flutter
+homepage: https://marco87.dev
+
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+  flutter: ">=3.3.3"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  helpers_plethora: ^2.1.0
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
